@@ -2,9 +2,9 @@
 <img alt="logo" width='30%' align="right" src="https://github.com/Okazakee/mcserver-lazymc-docker/blob/master/bg.png" />
 
 
-## Minecraft Servers w/ [Lazymc](https://github.com/timvisee/lazymc) using Docker
+## DockerCraft
 
-This is a Linux Docker image for creating Minecraft servers with `lazymc`.
+This is a Linux Docker image for creating Minecraft servers with [`lazymc`](https://github.com/timvisee/lazymc).
 
 **Lazymc** is a utility that puts your Minecraft server to rest when idle and wakes it up when players try to connect.
 This allows the server to not waste resources if nobody is connected.
