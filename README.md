@@ -4,6 +4,14 @@
 
 ## DockerCraft
 
+> **⚠️ Archived — this project has become [MinePanel](https://minepanel.xyz).**
+>
+> DockerCraft has evolved into **MinePanel**, a self-hosted platform for managing Minecraft servers the right way: the full stack (backend, database, MC servers) comes up with a single `docker compose up`, each server runs in its own Docker container, and you manage everything from your own hardware — no cloud lock-in. It adds a hosted dashboard/PWA that connects to your self-hosted instances, accounts, roles & permissions, real-time host metrics, and a player portal.
+>
+> 👉 **New project org: [github.com/MinePanelProject](https://github.com/MinePanelProject)** — [backend](https://github.com/MinePanelProject/minepanel-backend) · [dashboard & PWA](https://github.com/MinePanelProject/minepanel-pwa) · [website](https://github.com/MinePanelProject/minepanel-site)
+>
+> This repository is archived and no longer maintained.
+
 This is a Linux Docker image for creating Minecraft servers with [`lazymc`](https://github.com/timvisee/lazymc).
 
 **Lazymc** is a utility that puts your Minecraft server to rest when idle and wakes it up when players try to connect.
